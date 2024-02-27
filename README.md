@@ -4,6 +4,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shrutzyadnik10&show_icons=true&count_private=true&theme=dracula" height="150" alt="Stats Graph 2" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shrutzyadnik10&layout=compact&card_width=320&langs_count=5&theme=dracula" height="150" alt="Languages Graph 2" />
 </div>
 
 
