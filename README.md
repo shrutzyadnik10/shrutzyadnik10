@@ -33,7 +33,7 @@ Feel free to explore my repositories to discover more projects and contributions
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&theme=dracula)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shrutzyadnik10&show_icons=true&count_private=true&theme=dracula)
 
 ## 📫 Contact
 
