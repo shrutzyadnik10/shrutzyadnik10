@@ -1,52 +1,42 @@
-<h2 align="left">Hi 👋! My name is Shruti Yadnik and I'm a Full Stack Web Developer from India </h2>
+# Hi there! 👋 I'm Shruti Yadnik
 
-###
+I'm a Full Stack Web Developer passionate about creating web applications and exploring the world of technology. My expertise includes a wide range of technologies, and I enjoy working on diverse projects.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+## 🔧 Skills
 
-###
+- React.js
+- HTML
+- CSS
+- JavaScript
+- Python
+- Java
+- MongoDB
+- Node.js
+- MySQL
+- Cybersecurity
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+## 🌐 Connect with Me
 
-###
+- [LinkedIn](https://www.linkedin.com/in/shruti-yadnik/)
+- [Instagram](https://www.instagram.com/shrutz_yadnik/)
+- Email: yadnikshruti07@gmail.com
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-</div>
+## 🚀 Projects
 
-###
+Here are a few projects I've worked on:
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-</div>
+1. [Project 1](#) - Description of the project.
+2. [Project 2](#) - Description of the project.
+3. [Project 3](#) - Description of the project.
 
-###
+Feel free to explore my repositories to discover more projects and contributions!
 
-<br clear="both">
+## 📈 GitHub Stats
 
-###
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&theme=dracula)
+
+## 📫 Contact
+
+If you'd like to get in touch, feel free to reach out on [LinkedIn](https://www.linkedin.com/in/shruti-yadnik/) or drop me an email at yadnikshruti07@gmail.com.
+
+Happy coding! ✨
