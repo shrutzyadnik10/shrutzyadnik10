@@ -45,6 +45,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 ###
+![Snake Game](https://github.com/shrutzyadnik10/shrutzyadnik10/blob/output/github-contribution-grid-snake.svg?color=00ff00)
