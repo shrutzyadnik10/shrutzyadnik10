@@ -21,15 +21,7 @@ I'm a Full Stack Web Developer passionate about creating web applications and ex
 - [Instagram](https://www.instagram.com/shrutz_yadnik/)
 - Email: yadnikshruti07@gmail.com
 
-## 🚀 Projects
 
-Here are a few projects I've worked on:
-
-1. [Project 1](#) - Description of the project.
-2. [Project 2](#) - Description of the project.
-3. [Project 3](#) - Description of the project.
-
-Feel free to explore my repositories to discover more projects and contributions!
 
 ## 📈 GitHub Stats
 
