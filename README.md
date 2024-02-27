@@ -29,11 +29,6 @@ I'm a passionate Full Stack Web Developer with a strong foundation in various te
 - **Cybersecurity:**
   - Knowledgeable in cybersecurity practices
 
-## Projects
-
-- 🚀 Project 1: [Personal Portfolio](https://github.com/shrutzyadnik10/Personal-Portfolio)
-
-- 🌐 Project 2: [Project Name 2](#)
 
 ## Contact
 
