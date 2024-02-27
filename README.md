@@ -3,7 +3,6 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="Stats Graph 1" />
   <img src="https://github-readme-stats.vercel.app/api?username=shrutzyadnik10&show_icons=true&count_private=true&theme=dracula" height="150" alt="Stats Graph 2" />
 </div>
 
