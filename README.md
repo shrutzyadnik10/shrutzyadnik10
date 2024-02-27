@@ -12,7 +12,6 @@ I'm a passionate Full Stack Web Developer with a strong foundation in various te
 
 - **Backend:**
   - Node.js
-  - Express.js
   - Python
   - Java
 
@@ -25,17 +24,17 @@ I'm a passionate Full Stack Web Developer with a strong foundation in various te
 
 ## Projects
 
-- 🚀 Project 1: [Project Name 1](link-to-repo)
+- 🚀 Project 1: [Personal Portfolio](https://github.com/shrutzyadnik10/Personal-Portfolio)
   - Description of the project.
 
-- 🌐 Project 2: [Project Name 2](link-to-repo)
+- 🌐 Project 2: [Project Name 2](#)
   - Description of the project.
 
 ## Contact
 
 - 💼 LinkedIn: [Shruti Yadnik](https://in.linkedin.com/in/shruti-yadnik-28b9631bb)
-- 🌐 Portfolio: [your-portfolio-url.com](https://shrutzyadnik10.github.io/Personal-Portfolio/)
-- 📧 Email: [your.email@example.com](mailto:yadnikshruti07@gmail.com)
+- 🌐 Portfolio: [My Portfolio](https://shrutzyadnik10.github.io/Personal-Portfolio/)
+- 📧 Email: [My Email](mailto:yadnikshruti07@gmail.com)
 
 ## Let's Connect!
 
