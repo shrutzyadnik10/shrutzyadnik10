@@ -43,5 +43,6 @@
 ###
 
 <br clear="both">
+<img src="https://github.com/shrutzyadnik10/shrutzyadnik10/blob/output/snake.svg" alt="Snake animation" />
 
 ###
