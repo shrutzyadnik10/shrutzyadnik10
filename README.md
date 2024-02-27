@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Shruti Yadnik and I'm a Full Stack Web Developer from Pune, India </h2>
+<h2 align="left">Hi 👋! My name is Shruti Yadnik and I'm a Full Stack Web Developer from India </h2>
 
 ###
 
