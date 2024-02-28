@@ -7,7 +7,7 @@
 </div>
 
 ###
-
+## 🚀 Expertise in:
 
 <div align="left">
   <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe" alt="react logo"/>  
@@ -37,6 +37,7 @@
 
 ###
 
+## 📫 Reach out to me on Social Media:
 
 [![LinkedIn Badge](https://img.shields.io/badge/-Shruti%20Yadnik-0072b1?style=for-the-badge&logo=Linkedin&logoColor=white)](https://in.linkedin.com/in/shruti-yadnik-28b9631bb "Connect on LinkedIn")
 
@@ -45,6 +46,9 @@
 [![Gmail Badge](https://img.shields.io/badge/-yadnikshruti07@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:yadnikshruti07@gmail.com "Connect via Email")
 
 ###
+
+## 📈 Check out my GitHub stats:
+
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=shrutzyadnik10&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shrutzyadnik10&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
