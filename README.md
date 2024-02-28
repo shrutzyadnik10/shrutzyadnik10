@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Shruti Yadnik and I'm a Full Stack Web Developer from India. </h2>
+<h2 align="left">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>! My name is Shruti Yadnik and I'm a Full Stack Web Developer from India. </h2>
 
 ###
 
@@ -10,36 +10,34 @@
 ###
 
 
-###
-
 <div align="left">
-  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe" alt="react logo"/>  
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe" alt="react logo"/>  
   <img width="12" />
-  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=f6df1c"  alt="javascript logo"  />
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=f6df1c" alt="javascript logo"  />
   <img width="12" />
-   <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=html5&svgfill=f6df1c"  alt="html logo"  />
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=html5&svgfill=f6df1c" alt="html logo"  />
   <img width="12" />
-  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=CSS3&svgfill=028dd1"  alt="css3 logo"/>
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=CSS3&svgfill=028dd1" alt="css3 logo"/>
   <img width="12" />
-  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=python&svgfill=659b60" alt="python logo"  />
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=python&svgfill=659b60" alt="python logo"  />
   <img width="12" />
-  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=node.js&svgfill=659b60" alt="nodejs logo"  />
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=node.js&svgfill=659b60" alt="nodejs logo"  />
   <img width="12" />
-  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=mongodb&svgfill=659b60" alt="mongodb logo"  />
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=mongodb&svgfill=659b60" alt="mongodb logo"  />
   <img width="12" />
-  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=java&svgfill=659b60" alt="java logo"  />
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=java&svgfill=659b60" alt="java logo"  />
   <img width="12" />
-  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=mysql&svgfill=659b60" alt="mysql logo"  />
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=mysql&svgfill=659b60" alt="mysql logo"  />
   <img width="12" />
-  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=git&svgfill=659b60" alt="git logo"  />
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=git&svgfill=659b60" alt="git logo"  />
   <img width="12" />
-  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=github" alt="github logo"  />
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=github" alt="github logo"  />
   <img width="12" />
-  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=androidstudio&svgfill=659b60" alt="androidstudio logo"  />
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=androidstudio&svgfill=659b60" alt="androidstudio logo"  />
 </div>
 
-
 ###
+
 
 [![LinkedIn Badge](https://img.shields.io/badge/-Shruti%20Yadnik-0072b1?style=for-the-badge&logo=Linkedin&logoColor=white)](https://in.linkedin.com/in/shruti-yadnik-28b9631bb "Connect on LinkedIn")
 
