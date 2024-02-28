@@ -42,11 +42,11 @@
 
 ###
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-</div>
+[![LinkedIn Badge](https://img.shields.io/badge/-Shruti%20Yadnik-0072b1?style=for-the-badge&logo=Linkedin&logoColor=white)](https://in.linkedin.com/in/shruti-yadnik-28b9631bb "Connect on LinkedIn")
+
+[![Instagram Badge](https://img.shields.io/badge/-shrutz_yadnik-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/shrutz_yadnik/ "Connect on Instagram")
+
+[![Gmail Badge](https://img.shields.io/badge/-yadnikshruti07@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:yadnikshruti07@gmail.com "Connect via Email")
 
 ###
 
