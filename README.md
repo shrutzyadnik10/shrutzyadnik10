@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img src="https://github.com/shrutzyadnik10/shrutzyadnik10/blob/main/Shruti.png" height="350px" alt="Shruti Image">
+  <img src="https://github.com/shrutzyadnik10/shrutzyadnik10/blob/main/Shruti.png"  alt="Shruti Image">
 </div>
 
 ###
